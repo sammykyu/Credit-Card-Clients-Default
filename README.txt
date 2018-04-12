@@ -1,0 +1,3 @@
+1. This capstone_project.ipynb file requires the visuals.py file which has the Python code to plot the graphics for visualization. Please copy visuals.py to the same folder that the capstone_project.ipynb file resides.
+2. Another package required for running the code in the .ipynb file is SMOTE. You can find the installation information from this web site: http://contrib.scikit-learn.org/imbalanced-learn/stable/install.html#
+3. The .ipynb references three graphic files, i.e. Ann.png, Svm.png and Tree.png. These files need to be in the same folder as the .ipynb file.
